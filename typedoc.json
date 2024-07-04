@@ -1,6 +1,0 @@
-{
-  "entryPoints": ["packages/*"],
-  "entryPointStrategy": "packages",
-  "includeVersion": true,
-  "exclude": ["packages/template"]
-}

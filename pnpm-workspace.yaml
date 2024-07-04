@@ -1,3 +1,0 @@
-# pnpm-monrepo/pnpm-workspace.yaml
-packages:
-  - "./packages/*"
